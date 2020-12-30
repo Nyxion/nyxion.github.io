@@ -18,9 +18,13 @@
 
 # If noone notices fuckups, the person gets a free choice between below.
 > Give someone a shot
+
 > Have someone else drink a finger
+
 > Have someone drink with you
+
 > The guys drink
+
 > The girls drink
 
 # Shriekwing
