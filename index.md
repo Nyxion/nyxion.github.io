@@ -10,7 +10,9 @@
 * If you obtain a new piece of gear - drink a finger
   * If you obtained it through rolling, do a /roll 100. Above 50 you're guuchi, below 50 and drink a finger.
   * If the piece of gear you obtained is a upgrade - 1 shot
-* You take fall damage? Drink a finger
+* *You* take fall damage? Drink a finger
+* Who prepulled, was it **Escalus**? He/she drinks
+* Just reset boss *sigh* - *Everyone* take a sip
 
 # Trolling
 * Did you see a paladin bubble-hearth? 1 shot
@@ -28,7 +30,7 @@
 > The girls drink
 
 # Shriekwing
-* Did you fuck up and get hit by **CHECK BELOW**? 
+* Did you fuck up and get hit by **CHECK BELOW**? Time to grab that glass and **SIP** like an english man
   * *Earsplitting Shirek*
   * *Blind Swipe*
   * *Echoing Sonar or Echoing Screech*
@@ -37,7 +39,7 @@
 * Did you break CC on *Shades of Bargast* ? Get fucked with **1 shot**
 
 # Hungering Destroyer
-* Did you get hit by laser when you werent it ? Sucks for you, take a sip.
+* Did you get hit by *laser* when you werent targeted ? Sucks for you, take a sip.
 
 # Lady Inerva Darkvein
 * Missed soak - Everyone drink
